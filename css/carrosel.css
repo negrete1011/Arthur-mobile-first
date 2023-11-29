@@ -110,7 +110,8 @@
     margin-right: 90px;
   }
 
-  .card {
+  .card,
+  .card2 {
     width: 60%;
     margin: 2em auto;
   }
